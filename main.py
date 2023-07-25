@@ -126,3 +126,42 @@ import os
 # random.shuffle(cards)
 # print(cards)
 
+# class Car:
+
+#  wheels = 4 # Class Variable
+
+#   def __init__(self,make,model,year,color):
+#   self.make = make  #Instance variable
+#   self.model = model #Instance variable
+#   self.year = year #Instance variable
+#   self.color = color #Instance variable
+
+#   def drive(self):
+#     print("this " +self.model+" is driving")
+#   def stop(self):
+#     print("This "+self.model+" has stopped")
+
+# class Animal:
+
+#   alive = True
+
+#   def eat(self):
+#     print("This animal is eating")
+
+#   def sleep(self):
+#     print("This animal is sleeping")
+
+# class Rabbit(Animal):
+#   pass  
+# class Fish(Animal):
+#   pass
+# class Human(Animal):
+#   pass
+
+# rabbit = Rabbit()
+# fish = Fish()
+# human = Human()
+
+# print(rabbit.alive)
+# fish.eat()
+# human.sleep()
